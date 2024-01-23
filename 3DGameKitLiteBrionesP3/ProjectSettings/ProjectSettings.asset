@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 00000000000000000000000000000000
+  productGUID: d59f83e6d2ed8ba409821d7657bfd65f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -699,7 +699,7 @@ PlayerSettings:
   cloudProjectId: a265b60c-1c20-4a7e-a7fb-81a8ed000e33
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer3DClient
+  projectName: 3DGameKitLiteBrionesP3
   organizationId: c_a_r_l_o_s
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
